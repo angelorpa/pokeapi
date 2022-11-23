@@ -1,0 +1,6 @@
+{
+  "POKE_API": {
+    "HOST": "pokeapi.co",
+    "VERSION": "2"
+  }
+}
